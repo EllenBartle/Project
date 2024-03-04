@@ -1,6 +1,5 @@
 import function.calc as fc
 import pytest
-#import numpy as np
 import cmath
 
 
